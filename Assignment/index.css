@@ -1,0 +1,130 @@
+body {
+    background-color: rgb(236, 236, 236);
+}
+
+
+.body-work {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    margin-left: 12rem;
+}
+
+.first-class {
+    width: 25vw;
+    height: 65vh;
+    border: none;
+    background-color: white;
+    border-radius: 1rem;
+   
+}
+.first-sec {
+    text-align: center;
+    background-color: rgb(4, 12, 51);
+    color: white;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    padding-bottom: 0.5rem;
+    padding-top: 0.5rem;
+}
+
+.first {
+    margin-left: 2rem;
+}
+.first input {
+    text-align: center;
+    border-radius: 2rem;
+    background-color: rgb(234, 2, 106);
+    color: white;
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-left: 6rem;
+    padding-top: 0.5rem;
+}
+
+.second-class {
+    width: 25vw;
+    height: 65vh;
+    border: none;
+    background-color: white;
+   border-radius: 1rem;
+   
+}
+.second {
+    text-align: center;
+    background-color: rgb(4, 12, 51);
+    color: white;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    padding-bottom: 0.5rem;
+    padding-top: 0.5rem;
+}
+
+.sub-second-class {
+    margin-left: 2rem;
+}
+
+.sub-second-class img {
+    width: 1rem;
+    height: 1rem;
+}
+
+
+.sub-second-class input {
+    text-align: center;
+    border-radius: 2rem;
+    background-color: rgb(234, 2, 106);
+    color: white;
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-left: 6rem;
+    padding-top: 0.5rem;
+   
+
+}
+
+
+    
+
+.third-class {
+    margin-top: 2rem;
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: white;
+    border-radius: 0.5ren;
+    border: none;
+    width: 40vw;
+    height: 40vh;
+    margin-left: 20rem;
+    border-radius: 1rem;
+}
+.class {
+    margin-top: 5rem;
+    margin-left: 3rem;
+}
+.sub-sub {
+    margin-top: 2rem;
+}
+.sub-sub input {
+    text-align: center;
+    border-radius: 2rem;
+    background-color: rgb(234, 2, 106);
+    color: white;
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-left: 6rem;
+    padding-top: 0.5rem;
+
+}
+.class img {
+    width: 1rem;
+    height: 1rem;
+}
+
+
+

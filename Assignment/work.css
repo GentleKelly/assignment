@@ -1,0 +1,365 @@
+.nav-section {
+    display: flex;
+    list-style: none;
+    gap: 40rem;
+    background-color: yellowgreen;
+    height: 6rem;
+
+}
+.nav-bar ul {
+    display: flex;
+    list-style: none;
+}
+.nav-bar img {
+    width: 4rem;
+    height: 4rem;
+
+}
+.nav-list ul {
+    display: flex;
+    list-style: none;
+    gap: 5rem;
+}
+.first-section {
+    text-align: center;
+    background: url(https://m.media-amazon.com/images/I/71puINIx1hL._AC_SL1500_.jpg);
+    height: 70vh;
+    color: white;
+    padding-top: 4rem;
+}
+.first-section h2 {
+   font-size: 4rem;
+   color: white;
+}
+.first-section h3 {
+    font-size: 2rem;
+    color: white;
+
+}
+.first-section p input {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    text-align: left;
+    font-size: 2rem;
+    background-color: blue;
+    color: white;
+}
+.first-section a {
+    font-size: 5rem;
+    border: none;
+    color: white;
+    background-color: blue;
+    text-underline-offset: none;
+    text-underline-position: none;
+}
+.second-section {
+    margin-top: 2rem;
+    display: flex;
+    gap: 10rem;
+}
+.first-sec {
+    margin-top: 5rem;
+    font-size: 2rem;
+}
+.sub-sec {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    
+
+}
+
+.sub-sec img {
+    width: 25rem;
+    height: 20rem;
+}
+.first-third {
+    font: 5rem;
+    text-align: center;
+}
+.first-third h2 {
+    text-align: center;
+    font: 6rem;
+}
+.sub-third {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.let-more p {
+    text-align: center;
+    font-size: 2rem;
+    
+}
+
+.fourth-section {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-left: 7rem;
+}
+
+
+.total-form {
+    background-color: yellowgreen;
+    width: 100vw;
+    height: 100vh;
+    padding-top: 5rem;
+}
+.container {
+    border: none;
+    width: 40vw;
+    background-color: aqua;
+    margin-left: 25rem;
+    margin-top: 6rem;
+   
+    
+}
+
+.front-container h1 {
+    margin-left: 10rem;
+    color: red;  
+}
+
+.center-container ul {
+    display: flex;
+    text-align: center;
+    list-style: none;
+    gap: 2rem;
+    margin-left: 3rem;
+}
+.center-container input {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    border-radius: 2rem;
+    font-size: 1rem;
+}
+.second-container ul {
+    display: flex;
+    text-align: center;
+    list-style: none;
+    gap: 20rem;
+    margin-left: 3rem;
+   
+}
+.second-container input {
+    width: 2rem;
+    height: 2rem;  
+    border-radius: 2rem;
+    font-size: 1rem;
+
+}
+.third-container ul {
+    display: flex;
+    text-align: center;
+    list-style: none;
+    gap: 17rem;
+    margin-left: 3rem;
+}
+
+.third-container input {
+   width: 2rem;
+   height: 2rem;
+    border-radius: 2rem;
+    font-size: 1rem;
+}
+.four-container ul {
+    display: flex;
+    text-align: center;
+    list-style: none;
+    gap: 2rem;
+    margin-left: 3rem;
+   
+}
+.four-container input {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    border-radius: 2rem;
+    font-size: 1rem;
+    
+}
+.fifty-container input {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-right: 21rem;
+    padding-left: 2rem;
+    border-radius: 2rem;
+    font-size: 1rem;
+    margin-left: 5rem;
+}
+
+.six-container input {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-right: 21rem;
+    padding-left: 2rem;
+    border-radius: 2rem;
+    font-size: 1rem;
+    margin-left: 5rem;
+}
+.seven-container input {
+    margin-left: 20rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    border-radius: 2rem;
+    text-align: center;
+
+}
+.main-product {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-left: 3rem;
+}
+.batch-service {
+   
+}
+.start {
+    text-align: center;
+    font-size: 3rem;
+    color: yellowgreen;
+    background: url(https://tse2.mm.bing.net/th?id=OVP.fN6_-7DA39XfaD1GqDZ2IAHgFo&pid=Api&h=360&w=480&c=7&rs=1);
+    height: 45vh;
+
+
+}
+
+
+.services {
+    background: url();
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 3rem;
+}
+
+.wig-installation {
+    border: none;
+    border-radius: 2rem;
+    width: 25vw;
+    height: 30vh;
+    font-size: 1.5rem;
+    padding-bottom: 1rem;
+    background-color: yellowgreen;
+    color: white;
+    list-style: none;
+}
+.wig-installation input {
+    margin-left: 4rem;
+    font-size: 1.5rem;
+    color: white;
+    background: yellowgreen;
+    border-radius: 1rem;
+    border: none;
+    
+}
+.wig-installation ul {
+    list-style: none;
+}
+.wig-installation h3 {
+    text-align: center;
+}
+
+.inner-section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border: none;
+    border-radius: 2rem;
+    background-color: yellowgreen;
+    width: 25rem;
+}
+
+.first-inner {
+    font-size: 1.5rem;
+    background-color: yellowgreen;
+    color: white;
+    border-radius: 2rem;
+}
+.first-inner h3 {
+    text-align: center;
+}
+.secinner img {
+    width: 100%;
+    height: 100%;
+    border-radius: 2rem;
+}
+
+.function {
+    text-align: center;
+    border: solid;
+    border-radius: 2rem;
+    width: 20vw;
+    height: 30vh;
+    background-color: yellowgreen;
+    color: white;
+    font-size: 1.5rem;
+}
+.inn-sec {
+    border: none;
+    display: grid;
+    grid-template-columns: auto auto;
+    width:20vw ;
+    height: 30vh;
+    border-radius: 2rem;
+    background-color: yellowgreen;
+}
+.inn-sec h3 {
+    text-align: center;
+}
+
+.fistinn {
+    font-size: 1.5rem;
+    background-color: yellowgreen;
+    border-radius: 2rem;
+    color: white;
+    width: 15rem;
+}
+
+.secd-inn {
+    background-color: red;
+    font-size: 3rem;
+    border-radius: 2rem;
+}
+
+.last-sec {
+    border: solid;
+    border-radius: 2rem;
+    width: 22vw;
+    height: 30vh;
+    text-align: center;
+    font-size: 2rem;
+    background-color: yellowgreen;
+    color: white;
+}
+.final-list {
+    border: none;
+    font-size: 1.5rem;
+    border-radius: 2rem;
+    background-color: yellowgreen;
+    color: white;
+    width: 25rem;
+    height: 38vh;
+    
+}
+.final-list ul {
+    list-style: none;
+
+}
+
+.final-list h3 {
+    text-align: center;
+   
+}
+
+.final-list p {
+    margin-left: ;
+   
+}
+
+.list-list img {
+    width: 98vw;
+    height: 25rem;
+}

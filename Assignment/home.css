@@ -1,0 +1,135 @@
+
+
+.top-work ul {
+    display: flex;
+    list-style: none;
+    gap:2rem;
+}
+
+.top-work img {
+    width: 4rem;
+    padding-right: 40rem;
+}
+
+.top-work input {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    text-align: center;
+}
+
+.section-one {
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    margin-left: 10rem;
+    width: 80vw;
+    height: 70vh;
+    border: none;
+    padding-top: 5rem;
+    margin-top: 5rem;
+}
+
+.secction-two img {
+    margin-right: 10rem;
+}
+
+.section-three {
+    border: none;
+    width: 30vw;
+    height: 55vh;
+}
+
+.section-three h1 {
+    font-size: 4rem;
+    margin-left: 1.5rem;
+}
+
+.section-three p {
+    margin-left: 1.5rem;
+    font-size: 1rem;
+}
+
+.section-four input {
+    margin-left: 1.5rem;
+    padding-right: 2.4rem;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.section-four bottom {
+    border: none;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    background-color: blue;
+    color: white;
+}
+.second-div {
+    background-color: whitesmoke;
+}
+
+.second-div h3 {
+    margin-left: 550px;
+    font-size: 2rem; 
+}
+.second-div p {
+    margin-left: 400px;
+}
+.second-div input {
+    margin-left: 39rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-radius: 0.5rem;
+    text-align: center;
+    color: blue;
+}
+
+.section-list {
+    display: grid;
+    grid-template-columns: auto auto auto;
+
+
+}
+.sec {
+    background-color: none;
+    border: thick;
+    border-color: white;
+    padding: 20px;
+    font-size: 20px;
+    margin-left: 10rem;
+}
+
+.third-div {
+    margin-top: 2rem;
+    display: grid;
+    grid-template-columns: 7fr 7fr 5fr;
+    margin-left: 7rem;
+    background-color: white;
+
+}
+
+.third-div input {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    background-color: blue;
+    color: white;
+}
+.item {
+    padding-bottom: 10rem;
+}
+
+.list-itema {
+    display: grid;
+    grid-template-columns: 2.5fr 1fr 1fr 1fr 1fr;
+    margin-left: 7rem;
+    padding-top: 4rem;
+}
+.list-zero img {
+    width: 2rem;
+}
+
+   
+

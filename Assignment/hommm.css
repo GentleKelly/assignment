@@ -1,0 +1,110 @@
+
+
+
+.first-top {
+    display: flex;
+    gap: 10rem; 
+    background-color: blue;
+    width: 75vw;
+    margin-left: 2rem;
+}
+.top-div ul {
+    display: flex;
+    list-style: none;
+    color: white;
+    margin-left: 0.2rem;
+    
+}
+.top-div img {
+    width: 2rem;
+    height: 2rem;
+}
+
+.bottom-div ul {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+    color: white;
+
+}
+.bottom-div input {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 0rem;
+    padding-right: 0rem;
+    text-align: center;
+}
+.container {
+    display: flex;
+    gap: 15rem;
+    margin-left: 2rem; 
+    background-color: blue;  
+    height: 52vh;
+    width: 75vw;
+}
+.top-container h2 {
+    font-size: 3rem;
+}
+
+.top-container input {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    text-align: center;
+    background-color: blue;
+    color: white;
+
+}
+.bottom-container img {
+    width: 35rem;
+    height: 25rem;
+    background-color: blue;
+}
+
+.team {
+    display: flex;
+    gap: 15rem;
+    font-size: 1.5rem;
+    margin-left: 2rem;
+}
+
+.first-team img {
+    width: 40rem;
+    height: 22rem;
+}
+.sec-team input {
+    border-radius: 1rem;
+    width: 1.5rem;
+    height: 1.5rem;
+    text-align: center;
+}
+
+.display-div {
+    display: flex;
+    margin-left: 2rem;
+    gap: 15rem;
+}
+
+.sub-div {
+    margin-top: 20rem;
+}
+.main-display {
+    display: grid;
+    grid-template-columns: 1fr 1fr;  
+}
+
+.fifty-display {
+    display: flex;
+    margin-left: 2rem;
+    gap: 13rem;
+    background-color: aliceblue;
+
+}
+.final {
+    display: flex;
+    margin-left: 2rem;
+    gap: 10rem;
+    background-color: blue;
+    width: 67vw;
+    height: ;
+
+}

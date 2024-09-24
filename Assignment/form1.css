@@ -1,0 +1,102 @@
+body {
+    background-color: rgb(83, 90, 100);
+}
+
+.first {
+    margin-left: 20rem;
+    margin-top: 20rem;
+    margin-bottom: 10rem;
+    background-color: white;
+    width: 50vw;
+    height: 60vh;
+}
+.first h1 {
+    margin-left: 4rem;
+    padding-top: 2rem;
+    color: rgb(65, 69, 99);
+
+}
+
+.second ul {
+    display: flex;
+    margin-left: 1.5rem;
+    list-style: none;
+    gap: 1rem;
+}
+
+.second input {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-right: 10rem;
+    border-radius: 0.5rem;
+    border: none;
+    color: blue;
+    background-color: rgb(199, 205, 253);
+    padding-left: 1rem;
+}
+
+.third ul {
+    display: flex;
+    margin-left: 1.5rem;
+    list-style: none;
+    gap: 1rem;
+
+}
+
+.third input {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-right: 10rem;
+    border-radius: 0.5rem;
+    border: none;
+    color: blue;
+    background-color: rgb(199, 205, 253);
+    padding-left: 1rem;
+}
+
+.four input {
+    margin-left: 4rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-right: 32.1rem;
+    border-radius: 0.5rem;
+    border: none;
+    color: blue;
+    background-color: rgb(199, 205, 253);
+    padding-left: 1rem;
+}
+
+.five {
+    margin-top: 0.6rem;
+}
+
+.five input {
+    margin-left: 4rem;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+    padding-right: 32.1rem;
+    border-radius: 0.5rem;
+    border: none;
+    color: blue;
+    background-color: rgb(165, 177, 253);
+    padding-left: 1rem;
+}
+
+
+.six {
+    margin-left: 4rem;
+    color: turquoise;
+    font-size: 1.5rem;
+}
+
+.six input {
+    margin-left: 15rem;
+    margin-top: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-right: 5rem;
+    padding-left: 5rem;
+    border-radius: 1.5rem;
+    background-color: blue;
+    color: white;
+}

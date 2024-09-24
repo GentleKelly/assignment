@@ -1,0 +1,159 @@
+body {
+    background-color: white;
+    width: 
+    height:
+}
+
+.main-body {
+    background-color: rgb(109, 209, 231);
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    margin-left: 10rem;
+    margin-top: 10rem;
+    height: 80vh;
+    width: 70vw;
+    border: none;
+    padding-left: 3rem;
+}
+.main-body h2 {
+    margin-left: 2.5rem;
+}
+
+
+
+
+.first-section {
+    border: none;
+    border-radius: 0.5rem;
+    height: 30rem;
+    width: 28rem;
+    background-color: whitesmoke;
+}
+
+.first-section h2 {
+    text-align: center;
+}
+
+
+.first-section ul {
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+    border-radius: 4rem;
+    color: aqua;
+    font-size: 1rem;
+}
+
+.second-section ul {
+    display: flex;
+    gap: 16rem;
+}
+
+.second-section p {
+    margin-left: 2.5rem;
+    border-bottom-left-radius: ;
+    color: aqua;  
+}
+
+.second-section select {
+    border: none;
+    color: red;
+
+}
+.third-section h3 {
+    color: aqua;
+}
+
+.third-section h4 {
+    color: red;
+    
+
+}
+.third-section {
+    margin-left: 2.5rem;
+    color: aqua;
+}
+
+.four-section {
+    text-align: center;
+
+}
+
+.four-section input {
+    padding-left: 4rem;
+    padding-right: 4rem;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 0.5rem;
+}
+
+.section-one {
+    border: none;
+    border-radius: 0.5rem;
+    height: 22rem;
+    width: 28rem;
+    background-color: whitesmoke;
+    margin-bottom: 20rem;
+}
+
+.section-one h2 {
+    text-align: center;
+}
+
+
+.section-one ul {
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+    border-radius: 4rem;
+    color: aqua;
+    font-size: 1rem;
+}
+
+.section-two ul {
+    display: flex;
+    gap: 16rem;
+}
+
+.section-two p {
+    margin-left: 2.5rem;
+    border-bottom-left-radius: ;
+    color: aqua;  
+}
+
+.section-two select {
+    border: none;
+    color: red;
+
+}
+.section-three h3 {
+    color: aqua;
+}
+
+.section-three h4 {
+    color: red;
+    
+
+}
+.section-three {
+    margin-left: 2.5rem;
+    color: aqua;
+}
+
+.section-four {
+    text-align: center;
+
+}
+
+.section-four input {
+    padding-left: 4rem;
+    padding-right: 4rem;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 0.5rem;
+}
+
+
+
